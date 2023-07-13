@@ -1,0 +1,12 @@
+.navBar{
+    padding: 1rem;
+    height: 4rem;
+    display: flex;
+}
+
+.logo{
+    @apply font-bold;
+    @apply text-2xl;
+    height: 4rem;
+    margin-right: 2rem;
+}

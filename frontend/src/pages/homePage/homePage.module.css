@@ -1,0 +1,7 @@
+.homebackground{
+    padding-top: 2rem;
+    height: 100vh;
+    width: 100%;
+    @apply bg-gradient-to-t from-green-300
+
+}
