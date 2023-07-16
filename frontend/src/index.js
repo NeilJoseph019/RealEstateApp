@@ -12,7 +12,7 @@ root.render(
   <React.StrictMode>
     <Router>
       <TopNavBar/>
-      <div className=' pt-2 h-[100vh] w-full bg-gradient-to-t from-green-300'>
+      <div className=' pt-[2.5rem] h-auto w-full bg-gradient-to-t from-green-300'>
         <App />
       </div>
     </Router>
